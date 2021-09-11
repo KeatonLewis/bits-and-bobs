@@ -8,4 +8,3 @@ After all, who hasn't had a plethora of side projects fall off of one truck or a
 
 * [Sudoku](sudoku.md)
 * [Code Wars](codewars.md)
-* [Euler Project](eulerproject.md)
